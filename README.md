@@ -2,6 +2,16 @@
 
 A two-player Minecraft-themed mini-game collection built with React and TypeScript. Players compete through three exciting challenges: a labyrinth race, portal building, and TNT field navigation.
 
+## Coding with Kids
+
+<img width="480" height="640" alt="image" src="https://github.com/user-attachments/assets/ab4043a0-7e7b-4f10-83ba-c9637e6c6625" />
+
+Prompt: `Erstelle ein Spiel aus unserer Zeichnung, für zwei Spieler ab 8-10 Jahre` // https://aistudio.google.com/ 
+
+ ... und ein paar zusätzliche Prompts zusammen mit dem Kind, damit es auf dem Tablet gespielt werden kann. 
+
+PS: lass die Kinder selbst auf Papier zeichnen und schreiben und erweckt dann gemeinsam ihre Fantasie zum Leben :)
+
 ## 🎮 Features
 
 - **Three Unique Mini-Games**: Labyrinth race, Portal building, and TNT field challenges
