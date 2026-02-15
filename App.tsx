@@ -81,6 +81,17 @@ const App: React.FC = () => {
               >
                 <Play fill="white" /> START
               </button>
+
+              <div className="mt-6">
+                <a 
+                  href="https://github.com/voku/Minecraft_Game/" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="text-gray-400 hover:text-green-400 transition-colors text-sm underline"
+                >
+                  🌟 Contribute on GitHub
+                </a>
+              </div>
             </div>
           </div>
         );
